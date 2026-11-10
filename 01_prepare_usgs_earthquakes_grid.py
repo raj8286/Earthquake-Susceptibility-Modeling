@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 from pyproj import Transformer
 
-from grid_config import (
+from grid_config_v5 import (
     ensure_grid_directories,
     get_grid_config,
 )
